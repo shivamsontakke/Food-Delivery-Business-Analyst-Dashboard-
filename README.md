@@ -1,6 +1,6 @@
 # Food-Delivery-Business-Analyst-Dashboard-
 End-to-end Power BI business analytics dashboard analyzing food delivery data, covering ETL, data modeling, DAX measures, and operational metrics.
-# 🍕 Zomato-Style Food Delivery Business Analytics Dashboard
+# 🍕 Food Delivery Business Analytics Dashboard
 
 An end-to-end business intelligence dashboard built in Power BI to analyze food delivery performance, customer behavior, restaurant metrics and operational efficiency. 
 
